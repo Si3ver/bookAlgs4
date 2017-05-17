@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/algs4-master/src/main/java/edu/princeton/cs/algs4/BinaryIn.java"/>
+<listEntry value="/algs4-master/src/main/java/edu/princeton/cs/algs4/BinarySearch.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="org.eclipse.m2e.launchconfig.classpathProvider"/>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="edu.princeton.cs.algs4.BinaryIn"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="edu.princeton.cs.algs4.BinarySearch"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="algs4-master"/>
-<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.m2e.launchconfig.sourcepathProvider"/>
 </launchConfiguration>
