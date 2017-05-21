@@ -30,7 +30,6 @@ public class BinarySearch {
 
         Arrays.sort(whitelist);
 
-        // read key; print if not in whitelist
         while (!StdIn.isEmpty()) {
             int key = StdIn.readInt();
             if (rank(key, whitelist) == -1)
